@@ -47,7 +47,7 @@ class CfgMusic
             "intense"
         };
     };
-    
+
     class COD_Opening_Credits
     {
         moods[] = 
@@ -57,22 +57,6 @@ class CfgMusic
     };
 
     class COD_Rooftops
-    {
-        moods[] = 
-        {
-            "intense"
-        };
-    };
-
-      class COD_Rooftops
-    {
-        moods[] = 
-        {
-            "intense"
-        };
-    };
-
-      class COD_Rooftops
     {
         moods[] = 
         {
