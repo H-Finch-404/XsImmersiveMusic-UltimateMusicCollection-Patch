@@ -47,13 +47,7 @@ class CfgMusic
             "intense"
         };
     };
-      class COD_Modern_Combat
-    {
-        moods[] = 
-        {
-            "intense"
-        };
-    };
+    
     class COD_Opening_Credits
     {
         moods[] = 
