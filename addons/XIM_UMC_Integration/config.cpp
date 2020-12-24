@@ -907,14 +907,6 @@ class CfgMusic
         };
     };
 
-    class Darth_Vader
-    {
-        moods[] = 
-        {
-            "dark"
-        };
-    };
-
     class Grand_Admiral_Thrawn
     {
         moods[] = 
