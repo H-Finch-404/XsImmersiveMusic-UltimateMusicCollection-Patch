@@ -1,3 +1,19 @@
+
+
+
+class CfgPatches
+{
+    class XIM_UMC_Integration
+    {
+        // ...
+        requiredAddons[] = { "XIM_Core", "Ultimate_Music_Mod"};
+        // ...
+    };
+};
+
+
+
+
 class CfgMusic
 {
     class Act_of_War_Military_Strength
