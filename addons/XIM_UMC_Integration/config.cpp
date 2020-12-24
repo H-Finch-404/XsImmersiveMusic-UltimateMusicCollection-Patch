@@ -409,13 +409,6 @@ class CfgMusic
         };
     };
 
-    class Never_Never_Never_Give_Up
-    {
-        moods[] = 
-        {
-            "calm"
-        };
-    };
 
     class radioman_song
     {
