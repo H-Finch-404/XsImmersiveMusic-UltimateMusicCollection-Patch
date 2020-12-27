@@ -945,7 +945,7 @@ class CfgMusic
     {
         moods[] = 
         {
-            "intense"
+            "calm"
         };
     };
 
