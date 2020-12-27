@@ -5,9 +5,11 @@ class CfgPatches
 {
     class XIM_UMC_Integration
     {
-        // ...
+        name = "XIM - Ultimate Music Collection Integration";
+        author = "H.Finch and x00010";
+        requiredVersion = 1.98;
         requiredAddons[] = { "XIM_Core", "Ultimate_Music_Mod"};
-        // ...
+        
     };
 };
 
